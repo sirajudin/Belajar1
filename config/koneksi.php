@@ -8,7 +8,7 @@
 $server="localhost";
 $user="root";
 $password="";
-$database="lesson";
+$database="latihan";
 $koneksi=  mysqli_connect($server, $user, $password, $database);
 
 if ($koneksi){
